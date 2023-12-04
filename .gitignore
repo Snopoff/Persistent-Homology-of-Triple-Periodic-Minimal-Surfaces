@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
-*.png
+images/
 iframe_figures/
+draft*
